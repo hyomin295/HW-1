@@ -1,5 +1,3 @@
-do "https://github.com/jhustata/intermediate/raw/main/wk5.do"
-
 qui {
 	clear 
 	cls
